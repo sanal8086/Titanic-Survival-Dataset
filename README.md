@@ -2,9 +2,9 @@ This repository contains an example of the Titanic survival dataset, which is a 
 
 The dataset is in CSV format, and can be opened with any spreadsheet program. The columns in the dataset are as follows:
 
-PassengerId: A unique identifier for each passenger
-Survived: Whether or not the passenger survived (1 = Yes, 0 = No)
-Pclass: The passenger's class (1 = First, 2 = Second, 3 = Third)
+- PassengerId: A unique identifier for each passenger
+- Survived: Whether or not the passenger survived (1 = Yes, 0 = No)
+- Pclass: The passenger's class (1 = First, 2 = Second, 3 = Third)
 Name: The passenger's name
 Sex: The passenger's sex (Male or Female)
 Age: The passenger's age
